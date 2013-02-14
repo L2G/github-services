@@ -14,3 +14,4 @@ docs/payload_data
 .buildpath
 log
 tmp
+.ruby-version
